@@ -1,1 +1,1 @@
-A simple and fun website I created
+A simple website
